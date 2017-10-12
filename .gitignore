@@ -101,5 +101,6 @@ ENV/
 .mypy_cache/
 
 # dataset
+src-py/wordlists/raw/*
 clickbait17*
 *.pkl
